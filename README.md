@@ -10,7 +10,7 @@
 
 HowFake is a fake news buster made for CypherHack 2019 Hackathon at Fr. Conceicao Rodrigues Institute of technology
 
-https://theabbie.github.io
+https://howfake.ml
 
 ## Progress
 
