@@ -1,6 +1,6 @@
 # HowFake
 
-<p align='center'><img src="https://raw.githubusercontent.com/theabbie/theabbie.github.io/master/files/Adobe_Post_20200225_1157510.44885486974293265.png" alt="TheAbbie" width="100" height="100"></p>
+<p align='center'><img src="https://github.com/theabbie/theabbie.github.io/raw/master/files/Adobe_Post_20200225_1157510.44885486974293265.png" alt="TheAbbie" width="100" height="100"></p>
 
 * [About](#About)
 * [Progress](#Progress)
